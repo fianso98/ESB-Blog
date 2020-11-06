@@ -1,4 +1,4 @@
-ESBootcamp Test Blog
+#ESBootcamp Test Blog
 -the site is at 65% all the main features are working fine
 -still need to do some exception hundling plus a rework of cateroies landing page (no style for now on that page)
 -dashboard is finished
